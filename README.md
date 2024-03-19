@@ -1,5 +1,5 @@
 # FireBase_to_Postgresql_convertor
-This repo is dedicated to the conversion of Firebase dataset into Postgresql dataset
+This repo is dedicated to the conversion of the Firebase dataset into the Postgresql dataset
 
 ## Getting Started
 
@@ -9,6 +9,14 @@ This repo is dedicated to the conversion of Firebase dataset into Postgresql dat
 ## Postgresql Setup
 1. Download and Install the Postgresql
 2. Setup All the dependencies
+3. create a new database ex. demo
+4. create an empty table with all the columns present in the Firebase dataset
+5. remember these login details:
+6. Server [localhost]: 
+7. Database [postgres]: my_database
+8. Port [5432]: -> mostly will be the same for the local system
+9. Your Username [postgres]: this will also be the same
+10 Password for user Postgres: 
 
 ## Setup Virtual Environment
   ## MacBook -> Terminal
