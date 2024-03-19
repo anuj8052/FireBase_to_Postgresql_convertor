@@ -23,7 +23,7 @@ This repo is dedicated to the conversion of Firebase dataset into Postgresql dat
   1. myenv\Scripts\Activate.ps1
 
 ## Run requirements.txt
-1. pip3 install -m requirements.txt
+1. pip3 install -r requirements.txt
 
 ## Run Python Script
 1. Python3 main2.py
